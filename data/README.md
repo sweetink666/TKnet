@@ -1,6 +1,9 @@
 # Dataset placeholder
 
-The datasets used in the paper are not distributed with this repository.
+The datasets used in the paper are laboratory-owned private data. They are not
+distributed with this repository and are not available through a public
+download link. Users should obtain an authorized copy from the corresponding
+authors or the data providers before preparing the files below.
 
 Prepare a dataset directory outside the repository, or place private files in
 this directory locally. The expected layout is:
@@ -36,4 +39,3 @@ export TAS_DATA_DIR=/path/to/dataset
 
 The `.gitignore` rules prevent private data files in `data/` from being added
 to Git.
-

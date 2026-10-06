@@ -42,9 +42,13 @@ training is required.
 
 ## Private dataset setup
 
-The datasets used in the paper are not released. Users must provide their own
-authorized copy. No local or absolute dataset path is stored in the source
-code.
+The Hohhot, Nanjing, and Xi'an datasets used in the paper are laboratory-owned
+private data. They are not publicly released or included in this repository,
+so no direct download link is provided. Researchers who need to reproduce the
+experiments should obtain an authorized copy from the corresponding authors or
+the data providers.
+
+No local or absolute dataset path is stored in the source code.
 
 Expected directory:
 
